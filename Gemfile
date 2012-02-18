@@ -17,6 +17,10 @@ group :assets do
   gem 'twitter-bootstrap-rails'
 end
 
+group :production, :staging do
+  gem "pg"
+end
+
 gem 'jquery-rails'
 
 # Use unicorn as the web server

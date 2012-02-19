@@ -22,4 +22,22 @@ def hn_url
   "http://news.ycombinator.com" end
 def bloomberg_url
   "http://www.bloomberg.com/entrepreneurs/" end
+  
+def bus_url
+	"http://business.csumb.edu/"
+end  
+def csumb_url
+	"http://csumb.org"
+end
+  
+def ricky_url
+	"http://home.csumb.edu/e/edwardsrichard/"
+end
 
+def mich_url
+	"#"
+end
+
+def court_url
+	"#"
+end
